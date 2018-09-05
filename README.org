@@ -2,7 +2,7 @@
 
 ** 工作环境
 
-Manjaro xfce minimal
+Manjaro xfce minimal <下载地址: https://osdn.net/projects/manjaro/storage/xfce/17.1.11/minimal/>
 fish
 xmonad
 spacemacs
