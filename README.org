@@ -2,8 +2,7 @@
 
 ** 工作环境
 
-Manjaro xfce minimal [[https://osdn.net/projects/manjaro/storage/xfce/17.1.11/minimal/][最新的 minimal 下载地址]
-fish
-xmonad 
-spacemacs
-jk
+1. Manjaro xfce :: [[https://osdn.net/projects/manjaro/storage/xfce][下载地址]]
+1. fish
+1. xmonad
+1. spacemacs
