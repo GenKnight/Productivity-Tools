@@ -1,2 +1,3 @@
 * spacemacs
 
+[[http://spacemacs.org/][spacemacs.org]]
