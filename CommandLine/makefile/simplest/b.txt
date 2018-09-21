@@ -1,0 +1,5 @@
+This is b
+This is b, too.
+This is b, again.
+4th line in b.txt.
+5th line in b.txt.

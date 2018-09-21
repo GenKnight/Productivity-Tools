@@ -1,0 +1,8 @@
+This is a.
+2017年 06月 29日 星期四 10:32:18 CST
+This is b
+This is b, too.
+This is b, again.
+4th line in b.txt.
+5th line in b.txt.
+2017年 06月 29日 星期四 10:32:18 CST

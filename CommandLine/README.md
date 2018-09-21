@@ -1,3 +1,5 @@
-# 命令行
+# Linux Notes
+学习Linux的笔记收集
 
-记录常用的命令行命令使用方法。
+## 目录
+- [makefile](./makefile)
